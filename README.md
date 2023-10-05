@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Firozmd15
 - 👀 I’m interested in Microsoft tools
-- 🌱 I’m currently learning Emebedded Power BI Reports
+- 🌱 I’m currently learning Embedded Power BI Reports
 - 📫 How to reach me mahamadpbi@outllok.com
 
 <!---
